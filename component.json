@@ -1,0 +1,26 @@
+{
+  "name": "table",
+  "repo": "luka5/table",
+  "description": "A combination of reactive-table and bootstrap-table",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/query": "0.0.1",
+    "component/domify": "0.2.0",
+    "component/clone": "0.1.0",
+    "mikanda/dom-table": "0.0.1",
+    "mikanda/reactive-table": "0.0.1"
+  },
+  "development": {
+    "luka5/bootstrap-tables": "*",
+    "luka5/bootstrap-buttons": "*",
+    "mikanda/child": "0.0.1",
+    "component/model": "0.0.1",
+    "mikanda/model-edit-dialog": "0.0.1"
+  },
+  "license": "LGPL",
+  "scripts": [
+    "index.js",
+    "template.js"
+  ]
+}

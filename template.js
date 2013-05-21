@@ -1,0 +1,1 @@
+module.exports = '<table><thead></thead><tbody></tbody></table>';
