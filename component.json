@@ -2,13 +2,13 @@
   "name": "table",
   "repo": "luka5/table",
   "description": "A combination of reactive-table and bootstrap-table",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [],
   "dependencies": {
     "component/query": "0.0.1",
-    "component/domify": "0.2.0",
+    "component/domify": "1.0.0",
     "component/clone": "0.1.0",
-    "mikanda/dom-table": "0.0.1",
+    "mikanda/dom-table": "0.1.0",
     "mikanda/reactive-table": "0.0.1"
   },
   "development": {

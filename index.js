@@ -5,7 +5,7 @@ var template = require('./template'),
     reactiveTable = require('reactive-table');
 
 function Table (collection, renderer, scope, head) {
-  this.el = domify(template)[0];
+  this.el = domify(template);
   this.headEl = query('thead', this.el);
   this.bodyEl = query('tbody', this.el);
   this.reactiveTable = reactiveTable(collection, this.bodyEl, renderer, scope);
