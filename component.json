@@ -9,7 +9,7 @@
     "component/domify": "1.0.0",
     "component/clone": "0.1.0",
     "mikanda/dom-table": "0.1.0",
-    "mikanda/reactive-table": "0.0.1"
+    "mikanda/reactive-table": "0.0.2"
   },
   "development": {
     "luka5/bootstrap-tables": "*",
